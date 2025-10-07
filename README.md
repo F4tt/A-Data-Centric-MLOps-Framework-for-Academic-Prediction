@@ -6,7 +6,11 @@ https://drive.google.com/file/d/1SJqQPb86as5Znnsf29KuMNjwjpDugDSC/view?usp=shari
 -The complete dataset and source code will be released upon acceptance
 https://drive.google.com/drive/u/1/folders/1Tpj7WwCGNPxLsqoTlWnvs8wekJ0eB1UZ
 
-<img width="1919" height="812" alt="image" src="https://github.com/user-attachments/assets/2a5d2144-4d99-463f-b951-ea933715a15c" />
+details in: 
+[A_Data_Centric_MLOps_Framework_for_Academic_Prediction.pdf](https://github.com/user-attachments/files/22734119/A_Data_Centric_MLOps_Framework_for_Academic_Prediction.pdf)
 
+overview:
+<img width="839" height="487" alt="image" src="https://github.com/user-attachments/assets/b7956c78-acf1-4939-a63e-02ac72d9ee07" />
+<img width="888" height="376" alt="image" src="https://github.com/user-attachments/assets/d711e98f-f406-4640-a4df-7bf822f7bd48" />
 
 
